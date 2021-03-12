@@ -39,9 +39,9 @@ class NewsListActivity : AppCompatActivity() {
         binding = ActivityArticleListBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-//        if (binding.root.article_detail_container != null) {
-//            twoPane = true
-//        }
+        if (binding.root.article_detail_container != null) {
+            twoPane = true
+        }
     }
 
      private fun observeViewModel() {
