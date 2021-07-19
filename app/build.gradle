@@ -11,7 +11,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.smartdubai.nynews"
+        applicationId "com.android.nynews"
         minSdkVersion 23
         targetSdkVersion 30
         versionCode 1

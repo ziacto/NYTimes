@@ -1,5 +1,5 @@
 # NYTimes
- Smart Dubai Assignment
+ Android NYTimes API Assignment
 #### Tools and Technologies 
 1- Dagger Hilt
 2- Room DB with Live Data
